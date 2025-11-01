@@ -8,7 +8,7 @@ A secure and interactive **Password Manager Web Application** built using **Reac
 - 🔑 Secure password encryption and storage  
 - 👤 User authentication & JWT-based login system  
 - ➕ Add, edit, and delete saved credentials  
-- 🔍 Search and filter functionality for quick access  
+- 🔍 Search and filter functionality for quick access
 - 📁 Organize passwords by website/platform  
 - 🖥️ Interactive and responsive React-based UI  
 - ☁️ MongoDB Atlas cloud database support  
