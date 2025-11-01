@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer components {
+  .mycontainer {
+    max-width: 55rem; /* max-w-2xl */
+    padding-left: 2rem; /* px-8 */
+    padding-right: 2rem; /* px-8 */
+    padding-top: 2rem;
+    padding-bottom: 2rem; 
+    margin-left: auto; /* mx-auto */
+    margin-right: auto; /* mx-auto */
+  }
+}
+
+@layer components {
+  .mycontainer2 {
+    @apply container px-4 sm:px-8 md:px-20 lg:px-40 py-16 mx-auto;
+  }
+}
